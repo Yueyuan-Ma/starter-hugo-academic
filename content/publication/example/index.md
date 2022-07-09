@@ -11,13 +11,13 @@ abstract: We estimate the effects of spousal labor supply on individuals’ labo
   different income levels might be the underlying reason. The findings of this
   study suggest that more resources are needed to achieve the goals set by
   governments in developing countries.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
 authors:
   - admin
-  - Xinzheng-Shi
+  - Xinzheng Shi
 author_notes: []
 publication: Journal of Development Economics, Volume 145, June 2020
 summary: ""
@@ -31,8 +31,7 @@ title: Are Spousal Labor Supplies Substitutes? Evidence from the Workweek
 doi: ""
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
