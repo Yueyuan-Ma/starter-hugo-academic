@@ -1,7 +1,7 @@
 ---
 title: Yueyuan Ma
 role: Assistant Professor of Economics
-avatar_filename: ""
+avatar_filename: yueyuan-ma_photo.jpg
 bio: ""
 interests:
   - Macroeconomics
