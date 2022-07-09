@@ -25,7 +25,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-07-09T21:15:04.819Z
+date: 2022-07-09T21:23:58.017Z
 ---
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
