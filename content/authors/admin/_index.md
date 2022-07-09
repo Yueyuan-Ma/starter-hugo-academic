@@ -40,7 +40,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am an assistant professor in the Economics Department at the University of California, Santa Barbara.
+I am an Assistant Professor of Economics at the University of California, Santa Barbara.
 
 My research interests are macroeconomics, economic growth, innovation, and labor. I focus on the impact of policies and technological progress on economic growth and inequality.
 
