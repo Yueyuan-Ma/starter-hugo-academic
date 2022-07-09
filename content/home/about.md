@@ -7,10 +7,3 @@ title: Biography
 active: true
 author: admin
 ---
-<!--StartFragment-->
-
-My research interests are macroeconomics, economic growth, innovation, and labor. I focus on the impact of policies and technological progress on economic growth and inequality.
-
-
-
-<!--EndFragment-->
