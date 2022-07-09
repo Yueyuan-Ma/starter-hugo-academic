@@ -35,7 +35,7 @@ education:
       year: 2016
     - course: B.A. in Economics; B.S. in Statistics
       institution: Peking University
-      year: 2017
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true
