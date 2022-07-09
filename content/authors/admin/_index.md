@@ -36,7 +36,7 @@ education:
     - course: B.A. in Economics; B.S. in Statistics
       institution: Peking University
       year: 2014
-email: ""
+email: yueyuanma@ucsb.edu
 superuser: true
 highlight_name: true
 ---
