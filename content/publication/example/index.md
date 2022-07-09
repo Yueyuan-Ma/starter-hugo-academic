@@ -29,16 +29,16 @@ url_video: ""
 title: Are Spousal Labor Supplies Substitutes? Evidence from the Workweek
   Reduction Policy in China
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2022-07-09T21:11:16.735Z
+date: 2022-07-09T21:11:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
