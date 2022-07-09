@@ -20,7 +20,7 @@ abstract: We find that the increased supply of college graduates resulting from
   the supply of young college graduates when skill is a scarce resource. The
   model's predictions are supported by empirical tests.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
