@@ -20,10 +20,19 @@ abstract: We find that the increased supply of college graduates resulting from
   the supply of young college graduates when skill is a scarce resource. The
   model's predictions are supported by empirical tests.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2022-07-09T21:15:04.819Z
 ---
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
