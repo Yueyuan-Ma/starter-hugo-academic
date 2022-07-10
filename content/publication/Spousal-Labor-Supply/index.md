@@ -8,7 +8,7 @@ authors:
   - Xinzheng Shi
 publication: Journal of Development Economics, Volume 145, June 2020
 abstract: We estimate the effects of spousal labor supply on individuals’ labor
-  supply by using the 1994-1995 initiation of China’s workweek reduction policy
+  supply by using the 1994-1995 initiation of China's workweek reduction policy
   as a natural experiment. We find that a decrease in the labor supply of wives
   significantly increased the labor supply of husbands, but a decrease in the
   labor supply of husbands had an insignificantly negative effect on that of
