@@ -1,7 +1,7 @@
 ---
 title: Specialization in a Knowledge Economy
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
 publication: Journal of Development Economics, Volume 145, June 2020
