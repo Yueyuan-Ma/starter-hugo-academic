@@ -11,8 +11,7 @@ url_pdf: ""
 author_notes: []
 summary: ""
 featured: false
-tags:
-  - Innovation
+tags: ""
 projects: []
 image:
   caption: ""
