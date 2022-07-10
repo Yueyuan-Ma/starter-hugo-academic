@@ -1,10 +1,9 @@
 ---
 title: Specialization in a Knowledge Economy
 publication_types:
-  - "2"
+  - "3"
 authors:
   - admin
-  - Xinzheng Shi
 publication: Journal of Development Economics, Volume 145, June 2020
 abstract: We estimate the effects of spousal labor supply on individuals’ labor
   supply by using the 1994-1995 initiation of China’s workweek reduction policy
