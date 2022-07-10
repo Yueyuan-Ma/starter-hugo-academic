@@ -1,14 +1,14 @@
 ---
 widget: pages
-widget_id: "ref: working-paper"
+widget_id: "ref: project"
 headless: true
 weight: 80
-title: Working Papers
+title: Projects
 subtitle: ""
 content:
   filters:
     folders:
-      - working-paper
+      - project
     tag: ""
     category: ""
     publication_type: ""
