@@ -1,5 +1,5 @@
 ---
-title: Specialization in a Knowledge Economy
+title: You Will: A Macroeconomic Analysis of Digital Advertising
 publication_types:
   - "2"
 authors:
