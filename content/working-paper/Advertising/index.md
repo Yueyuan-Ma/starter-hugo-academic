@@ -1,5 +1,5 @@
 ---
-title: You Will: A Macroeconomic Analysis of Digital Advertising
+title: You Will A Macroeconomic Analysis of Digital Advertising
 publication_types:
   - "2"
 authors:
