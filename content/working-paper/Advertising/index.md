@@ -13,8 +13,7 @@ url_pdf: ""
 author_notes: []
 summary: ""
 featured: false
-tags:
-  - development
+tags: ""
 projects: []
 image:
   caption: ""
