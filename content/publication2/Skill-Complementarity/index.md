@@ -8,16 +8,8 @@ authors:
   - Lingsheng Meng
   - Xue Qiao
   - Xinzheng Shi
-publication: China Economic Review, Volume 46, December 2017
-abstract: We find that the increased supply of college graduates resulting from
-  college enrollment expansion in China increases college premiums for older
-  cohorts and decreases college premiums for younger cohorts. This finding is
-  inconsistent with the canonical model that assumes substitution among workers
-  of different ages. We subsequently build a simple model that considers
-  complementarities among workers of different ages and different skill levels.
-  Our model predicts that the college premium of senior workers increases with
-  the supply of young college graduates when skill is a scarce resource. The
-  model's predictions are supported by empirical tests.
+publication: NBER Working Paper (No.w28537)
+abstract: A model is developed where traditional and digital advertising finance the provision of free media goods and affect price competition. The economy is not efficient. Media goods are under provided. Additionally, there is too much advertising when ads cannot be perfectly directed toward potential buyers. The tax-cum-subsidy policy that overcomes these inefficiencies is characterized. The model is calibrated to the U.S. economy. The movement toward digital advertising increases consumer welfare significantly and is disproportionately financed by better-off consumers. The welfare gain from the optimal tax-cum-subsidy policy is much smaller than the one realized by the introduction of digital advertising.
 draft: false
 featured: false
 image:
