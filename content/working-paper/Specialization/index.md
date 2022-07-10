@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
 publication: SSRN 4052990
-abstract: Using firm-level data from the US Census Longitudinal Business Database (LBD), this paper exhibits novel evidence about a wave of specialization experienced by US firms in the 1980s and 1990s. Specifically: 1) Firms, especially innovating ones, decreased production scope, i.e., the number of industries in which they produce. 2) Small firms increased innovation relative to production while large firms increased production relative to innovation. A new hypothesis is proposed to explain these phenomena. Pro-patent reforms in the 1980s and 1990s make firms' innovations more commodified and tradable. Trading provides another channel for firms to monetize their innovation besides production, especially when innovations are mismatched with a firm's production. Production scope then contributes less to the value of a firm's innovation, enabling innovation to shift to small firms with limited production scope. To gauge the importance of the new hypothesis, an endogenous growth model is developed with potential mismatches between innovation and production. Calibrating the model to data suggests that increasing tradability of innovation output can explain 25% of the observed production scope decrease and 58% of the reallocation of innovation activities. It results in a 0.64 percent point increase in the annual economic growth rate. Using regional and firm-level differences in exposure to patent policies, difference-in-difference analysis confirms causality from the pro-patent reforms to firms' production scope shrinkage.
+abstract: We estimate the effects of spousal labor supply on individuals’ labor supply by using the 1994-1995 initiation of China’s workweek reduction policy as a natural experiment. We find that a decrease in the labor supply of wives significantly increased the labor supply of husbands, but a decrease in the labor supply of husbands had an insignificantly negative effect on that of their wives. Furthermore, a decrease in the labor supply of one spouse reduced the amount of time spent on housework for both the husband and wife. Our findings of the negative relation between the labor supplies of spouses differ from findings based on data from developed countries. We find evidence that different income levels might be the underlying reason. The findings of this study suggest that more resources are needed to achieve the goals set by governments in developing countries.
 slides: ""
 url_pdf: ""
 author_notes: []
@@ -13,8 +13,6 @@ summary: ""
 featured: false
 tags:
   - Innovation
-  - Firm Dynamics
-  - Economic Growth
 projects: []
 image:
   caption: ""
