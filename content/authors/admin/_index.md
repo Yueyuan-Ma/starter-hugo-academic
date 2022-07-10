@@ -16,7 +16,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/YueyuanM
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=sLn0dFMAAAAJ&hl=en&oi=ao
   - icon: linkedin
