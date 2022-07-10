@@ -42,6 +42,6 @@ highlight_name: true
 ---
 I am an Assistant Professor of Economics at the University of California, Santa Barbara.
 
-My research interests are macroeconomics, economic growth, innovation, and labor. I focus on the impact of policies and technological progress on economic growth and inequality.
+My research interests are macroeconomics, economic growth, innovation, and labor economics. I focus on the impact of policies and technological progress on economic growth and inequality.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Yueyuan_Ma.pdf" "newtab" >}}resumé{{< /staticref >}}.
