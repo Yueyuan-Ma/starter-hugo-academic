@@ -28,14 +28,10 @@ content:
   email: yueyuanma@ucsb.edu
   address:
     street:  2038 North Hall, University of California Santa Barbara
-    city: Santa Barbara
     region: CA
     postcode: '93106'
     country: United States
     country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
 
 design:
   columns: '2'
