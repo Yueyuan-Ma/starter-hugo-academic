@@ -17,7 +17,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/YueyuanM
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=sLn0dFMAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
