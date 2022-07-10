@@ -1,4 +1,12 @@
 ---
+title: Are Spousal Labor Supplies Substitutes? Evidence from the Workweek
+  Reduction Policy in China
+publication_types:
+  - "2"
+authors:
+  - admin
+  - Xinzheng Shi
+publication: Journal of Development Economics, Volume 145, June 2020
 abstract: We estimate the effects of spousal labor supply on individuals’ labor
   supply by using the 1994-1995 initiation of China’s workweek reduction policy
   as a natural experiment. We find that a decrease in the labor supply of wives
@@ -13,22 +21,8 @@ abstract: We estimate the effects of spousal labor supply on individuals’ labo
   governments in developing countries.
 slides: ""
 url_pdf: ""
-publication_types:
-  - "2"
-authors:
-  - admin
-  - Xinzheng Shi
 author_notes: []
-publication: Journal of Development Economics, Volume 145, June 2020
 summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: ""
-url_source: ""
-url_video: ""
-title: Are Spousal Labor Supplies Substitutes? Evidence from the Workweek
-  Reduction Policy in China
-doi: ""
 featured: false
 tags:
   - development
