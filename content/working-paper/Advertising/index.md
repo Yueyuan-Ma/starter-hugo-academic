@@ -28,8 +28,8 @@ image:
 #  preview_only: false
 
 authors:
-  - admin
   - Jeremy Greenwood
+  - admin
   - Mehmet Yorukoglu
 
 publication_types:
