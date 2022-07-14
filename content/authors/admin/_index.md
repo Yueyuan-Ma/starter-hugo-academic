@@ -18,7 +18,7 @@ social:
     link: https://twitter.com/YueyuanM
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=sLn0dFMAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?user=AyA1Ho8AAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yueyuan-ma-7ba017173/
