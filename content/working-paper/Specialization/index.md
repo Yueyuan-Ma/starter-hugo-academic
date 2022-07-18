@@ -34,7 +34,7 @@ publication_types:
   - "2"
 
 # Publication
-publication: SSRN Working Paper, No. 4052990
+publication: SSRN Working Paper (No. 4052990)
 
 ---
 
