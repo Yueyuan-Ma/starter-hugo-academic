@@ -7,9 +7,6 @@ summary: ''
 # Link this post with a project
 projects: []
 
-# Publication
-publication: Available at SSRN: https://ssrn.com/abstract=4052990
-
 # Date published
 date: '2022-01-13T00:00:00Z'
 
@@ -35,6 +32,9 @@ authors:
 
 publication_types:
   - "2"
+
+# Publication
+publication: SSRN Working Paper, No. 4052990
 
 ---
 
