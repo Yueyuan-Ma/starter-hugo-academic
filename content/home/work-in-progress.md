@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 120
 
 title: Work in Progress
 subtitle:
