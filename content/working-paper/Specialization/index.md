@@ -7,6 +7,9 @@ summary: ''
 # Link this post with a project
 projects: []
 
+# Publication
+publication: Available at SSRN: https://ssrn.com/abstract=4052990
+
 # Date published
 date: '2022-01-13T00:00:00Z'
 
@@ -31,7 +34,7 @@ authors:
   - admin
 
 publication_types:
-  - "3"
+  - "2"
 
 ---
 
