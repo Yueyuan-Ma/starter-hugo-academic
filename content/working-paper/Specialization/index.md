@@ -31,7 +31,10 @@ authors:
   - admin
 
 publication_types:
-  - "3"
+  - "2"
+
+# Publication
+publication: SSRN Working Paper (No. 4052990)
 
 ---
 
