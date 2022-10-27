@@ -1,5 +1,5 @@
 ---
-title: Yueyuan Ma
+title: Yueyuan Ma (马越原)
 role: Assistant Professor of Economics
 avatar_filename: yueyuan-ma_photo.jpg
 bio: ""
