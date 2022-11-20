@@ -40,7 +40,7 @@ email: yueyuanma@ucsb.edu
 superuser: true
 highlight_name: true
 ---
-I am an Assistant Professor of Economics at the University of California, Santa Barbara.
+I am Yueyuan Ma (马越原), an Assistant Professor of Economics at the University of California, Santa Barbara.
 
 My research interests are macroeconomics, economic growth, innovation, and labor economics. I focus on the impact of policies and technological progress on economic growth and inequality.
 
