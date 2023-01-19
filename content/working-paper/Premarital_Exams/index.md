@@ -28,7 +28,9 @@ image:
 #  preview_only: false
 
 authors:
+  - Chenyuan Liu
   - admin
+  - Binzhen Wu
 
 publication_types:
   - "2"
