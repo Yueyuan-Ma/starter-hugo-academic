@@ -42,6 +42,6 @@ highlight_name: true
 ---
 I am Yueyuan Ma (马越原), an Assistant Professor of Economics at the University of California, Santa Barbara.
 
-My research interests are macroeconomics, economic growth, innovation, and labor economics. Currently, I am studying (1) specialization in the innovation and production processes; (2) the impact of information on agents' decisions and aggregate welfare.
+My research interests are macroeconomics, economic growth, innovation, and labor economics. Currently, I am studying (1) innovation and knowledge diffusion; (2) the impact of information on agents' decisions and aggregate welfare.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Yueyuan_Ma.pdf" "newtab" >}}resumé{{< /staticref >}}.
