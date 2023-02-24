@@ -37,7 +37,7 @@ publication_types:
 
 
 # Publication
-publication: NBER Working Paper (No. 28537), Revision requested by The Review of Economic Studies
+publication: NBER Working Paper (No. 28537). Revision requested by The Review of Economic Studies
 ---
 
 Abstract: An information-based model is developed where traditional and digital advertising finance the provision of free media goods and aect price competition. Digital advertising is directed toward consumers while traditional advertising is undirected. The equilibrium is suboptimal. Media goods are under provided with both types of advertising. Additionally, traditional advertising is excessive because it is undirected. The tax-cum-subsidy policy that overcomes these inefficiencies is characterized. The model is calibrated to the U.S. economy. Digital advertising increases welfare significantly and is disproportionately financed by better-off consumers. The welfare gain from the optimal policy is much smaller than the gain from digital advertising.
