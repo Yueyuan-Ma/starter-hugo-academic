@@ -28,7 +28,7 @@ image:
 #  preview_only: false
 
 authors:
-  - [Jeremy Greenwood](https://www.jeremygreenwood.net/)
+  - Jeremy Greenwood
   - admin
   - Mehmet Yorukoglu
 
