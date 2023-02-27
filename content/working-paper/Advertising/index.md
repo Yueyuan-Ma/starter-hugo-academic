@@ -35,7 +35,7 @@ authors:
 publication_types:
   - "2"
 
-12:02 AM 2/27/2023
+
 # Publication
 publication: NBER Working Paper (No. 28537). Resubmission requested by the Review of Economics Studies
 ---
