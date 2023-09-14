@@ -1,5 +1,5 @@
 ---
-title: "Optimal Innovation Strategy along the Technology Wave"
+title: "Optimal Innovation Strategy along the Technological Waves"
 
 # Summary for listings and search engines
 summary: ''
