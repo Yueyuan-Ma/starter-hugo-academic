@@ -37,3 +37,5 @@ publication_types:
 
 
 ---
+
+Abstract: By comparing the expectation and actual outcome of business applicants in the Business Formation Statistics (BFS), this paper explores whether there is overconfidence among potential entrepreneurs.
