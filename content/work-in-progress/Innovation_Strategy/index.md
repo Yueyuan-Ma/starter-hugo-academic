@@ -36,3 +36,5 @@ publication_types:
 
 
 ---
+
+Abstract: This paper shows that technological waves (emergence or maturation of new technology) correlate with inventors' choices of starting up new businesses or working at existing firms. We build a theory to explain this correlation and study its impact on market concentration.
