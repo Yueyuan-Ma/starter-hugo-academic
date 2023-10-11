@@ -1,5 +1,5 @@
 ---
-title: "Uncertainty at Entry and Entrepreneurial Learning"
+title: "Pre-Entry Uncertainty, Learning, and Business Formation"
 
 # Summary for listings and search engines
 summary: ''
