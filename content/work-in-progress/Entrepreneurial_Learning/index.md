@@ -38,3 +38,4 @@ publication_types:
 
 
 ---
+Abstract: Using the application-level data of Business Formation Statistics (BFS), this paper studies the impact of uncertainty on business applications and formation.
