@@ -1,5 +1,5 @@
 ---
-title: "Optimal Innovation Strategy along the Technological Waves"
+title: "Startups or Corporate Researchers? From Technological Waves to Market Concentration"
 
 # Summary for listings and search engines
 summary: ''
