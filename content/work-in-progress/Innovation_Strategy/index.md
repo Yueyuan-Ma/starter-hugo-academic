@@ -1,5 +1,5 @@
 ---
-title: "Startups or Corporate Researchers? From Technological Waves to Market Concentration"
+title: "Technological Driven Market Concentration through Idea Allocation"
 
 # Summary for listings and search engines
 summary: ''
@@ -37,4 +37,4 @@ publication_types:
 
 ---
 
-Abstract: This paper shows that technological waves (emergence or maturation of new technology) correlate with inventors' choices of starting up new businesses or working at existing firms. We build a theory to explain this correlation and study its impact on market concentration.
+Abstract: Using a measure of technology novelty, this paper identifies periods with and without technology breakthroughs from the 1980s to the 2020s in the US. It is found that market concentration decreases at the advent of revolutionary technologies. We establish a theory addressing inventors' decisions to establish new firms or join incumbents of specific sizes, yielding two key predictions: (1) A higher share of inventors opt for new firms during periods of heightened technology novelty. (2). There is positive assortative matching between idea quality and firm size if inventors join incumbents. Both predictions align with empirical findings and collectively contribute to a reduction in market concentration when groundbreaking technologies occur. Quantitative analysis shows the channel proposed explains 89% of the correlation between technology novelty waves and market concentration.
