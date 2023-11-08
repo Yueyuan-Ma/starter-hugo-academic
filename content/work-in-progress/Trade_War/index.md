@@ -28,8 +28,10 @@ image:
 #  preview_only: false
 
 authors:
-  - Emin Dinlersoz
+  - Xiao Ma
   - admin
+  - Hanyi Tao
+  - Yiran Zhang
 
 
 publication_types:
