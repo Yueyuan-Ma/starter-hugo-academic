@@ -1,3 +1,4 @@
+
 ---
 title: "Optimal Innovation Strategy along the Technological Waves"
 
@@ -35,7 +36,8 @@ publication_types:
   - "2"
 
 # Publication
-Working Paper
+publication: Working Paper
+
 
 ---
 
