@@ -43,7 +43,7 @@ highlight_name: true
 I am Yueyuan Ma (马越原), an Assistant Professor of Economics at the University of California, Santa Barbara.
 
 My research interests encompass macroeconomics, economic growth, innovation, and labor economics. Presently, I am engaged in two primary areas of study: 
-1. Investigating the production and dissemination of knowledge and goods, exploring their interconnections and their effects on economic growth and the labor market.
+1. Investigating the production and dissemination of knowledge and goods, exploring their interconnections and their effects on economic growth, market structure, and household welfare.
 2. Exploring entrepreneurship, business formation, and firm dynamics with the aim of fostering a deeper understanding of the relationship between households and firms.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Yueyuan_Ma.pdf" "newtab" >}}resumé{{< /staticref >}}.
