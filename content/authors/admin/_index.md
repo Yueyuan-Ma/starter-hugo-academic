@@ -44,6 +44,6 @@ I am Yueyuan Ma (马越原), an Assistant Professor of Economics at the Universi
 
 My research interests encompass macroeconomics, economic growth, innovation, and labor economics. Presently, I am engaged in two primary areas of study: 
 1. Investigating the production and dissemination of knowledge and goods, exploring their interconnections and their effects on economic growth and the labor market.
-2. Exploring entrepreneurship, business establishment, and firm dynamics with the aim of fostering a deeper understanding of the relationship between households and firms.
+2. Exploring entrepreneurship, business formation, and firm dynamics with the aim of fostering a deeper understanding of the relationship between households and firms.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Yueyuan_Ma.pdf" "newtab" >}}resumé{{< /staticref >}}.
