@@ -8,6 +8,7 @@ interests:
   - Economic Growth
   - Innovation
   - Firm Dynamics
+  - Trade
   - Labor Economics
 social:
   - icon: envelope
