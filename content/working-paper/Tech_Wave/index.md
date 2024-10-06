@@ -8,10 +8,10 @@ summary: ''
 projects: []
 
 # Date published
-date: '2023-11-10T00:00:00Z'
+date: '2024-11-10T00:00:00Z'
 
 # Date updated
-lastmod: '2023-12-10T00:00:00Z'
+lastmod: '2024-12-10T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
