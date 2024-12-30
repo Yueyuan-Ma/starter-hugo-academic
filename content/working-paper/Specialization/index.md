@@ -27,6 +27,10 @@ image:
 #  placement: 2
 #  preview_only: false
 
+links:
+- name: Media
+  url: https://faculti.net/specialization-in-a-knowledge-economy/
+
 authors:
   - admin
 
