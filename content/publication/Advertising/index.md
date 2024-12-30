@@ -42,3 +42,7 @@ publication: NBER Working Paper (No. 28537). Forthcoming at the Review of Econom
 
 Abstract: An information-based model is developed where traditional and digital advertising finance the provision of free media goods and a affect price competition. Digital advertising is directed toward consumers while traditional advertising is undirected. The equilibrium is suboptimal. Media goods, if valued by the consumer, are under provided with both types of advertising. Additionally, traditional advertising is excessive because it is undirected. The tax-cum-subsidy policy that overcomes these inefficiencies is characterized. The model is calibrated to the U.S. economy. Through the lens of the calibrated model, digital advertising increases welfare signicantly. The welfare gain from the optimal policy is much smaller than the gain from digital advertising.
 
+
+links:
+url_media: https://www.law.upenn.edu/live/blogs/75-a-macroeconomic-analysis-reveals-the-benefits-for
+
