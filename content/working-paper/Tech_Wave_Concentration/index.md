@@ -1,5 +1,5 @@
 ---
-title: "Technology Driven Market Concentration through Idea Allocation"
+title: "Technology-Driven Market Concentration through Idea Allocation"
 
 # Summary for listings and search engines
 summary: ''
