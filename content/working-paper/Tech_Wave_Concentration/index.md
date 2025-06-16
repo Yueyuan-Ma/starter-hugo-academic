@@ -35,7 +35,7 @@ publication_types:
   - "2"
 
 # Publication
-publication: Working Paper
+publication: SSRN Working Paper (No. 4978854)
 
 ---
 
