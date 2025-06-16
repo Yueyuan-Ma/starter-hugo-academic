@@ -35,7 +35,7 @@ publication_types:
   - "2"
 
 # Publication
-publication: SSRN Working Paper (No. 4978854)
+publication: SSRN Working Paper (No. 4978854). Best Junior Scholar Paper Award at China International Conference in Macroeconomics 2025
 
 ---
 
