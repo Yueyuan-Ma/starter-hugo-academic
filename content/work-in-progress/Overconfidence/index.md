@@ -1,5 +1,5 @@
 ---
-title: "Are Potential Entrepreneurs Overconfident?"
+title: "Expectations versus Reality in Business Formation"
 
 # Summary for listings and search engines
 summary: ''
@@ -38,4 +38,4 @@ publication_types:
 
 ---
 
-Abstract: By comparing the expectation and actual outcome of business applicants in the Business Formation Statistics (BFS), this paper explores whether there is overconfidence among potential entrepreneurs.
+Abstract: Using comprehensive administrative data on nearly 17 million business applications and subsequent business outcomes, we examine how potential entrants’ expectations about entry as an employer business and the initial employment they will generate compare with realized outcomes. On average, potential entrants overestimate the employment they achieve within a year of application, primarily due to expecting entry but failing to enter. Those who both expect and realize entry, however, tend to underestimate actual employment. Expectation errors exhibit substantial variation and are systematically related to application characteristics and local conditions. The errors also predict near-term survival and employment. We further document how expectation errors evolved before and after the onset of the COVID-19 pandemic. Finally, we assess the implications of our findings for theories of entrepreneurial decision-making.
