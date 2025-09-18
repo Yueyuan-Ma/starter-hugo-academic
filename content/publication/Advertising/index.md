@@ -8,7 +8,7 @@ summary: ''
 projects: []
 
 # Date published
-date: '2021-12-13T00:00:00Z'
+# date: '2021-12-13T00:00:00Z'
 
 # Date updated
 lastmod: '2022-06-13T00:00:00Z'
@@ -33,7 +33,6 @@ links:
 - name: Media
   url: https://www.law.upenn.edu/live/blogs/75-a-macroeconomic-analysis-reveals-the-benefits-for
 
-show_date: false
 
 authors:
   - Jeremy Greenwood
