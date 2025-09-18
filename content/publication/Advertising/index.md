@@ -7,8 +7,6 @@ summary: ''
 # Link this post with a project
 projects: []
 
-show_date: false
-
 # Date published
 date: '2021-12-13T00:00:00Z'
 
@@ -34,6 +32,8 @@ links:
   url: https://www.nber.org/papers/w28537
 - name: Media
   url: https://www.law.upenn.edu/live/blogs/75-a-macroeconomic-analysis-reveals-the-benefits-for
+
+show_date: false
 
 authors:
   - Jeremy Greenwood
