@@ -28,12 +28,10 @@ image:
 #  preview_only: false
 
 links:
-- name: SSRN
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052990
-
-links:
-- name: Media
-  url: https://faculti.net/specialization-in-a-knowledge-economy/
+  - name: SSRN
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052990
+  - name: Media
+    url: https://faculti.net/specialization-in-a-knowledge-economy/
 
 authors:
   - admin
