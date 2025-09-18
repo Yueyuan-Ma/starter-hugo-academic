@@ -7,6 +7,8 @@ summary: ''
 # Link this post with a project
 projects: []
 
+show_date: false
+
 # Date published
 date: '2021-12-13T00:00:00Z'
 
