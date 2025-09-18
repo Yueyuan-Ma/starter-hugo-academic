@@ -27,6 +27,10 @@ image:
 #  placement: 2
 #  preview_only: false
 
+links:
+  - name: SSRN
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5455894
+
 authors:
   - Xiao Ma
   - admin
@@ -37,7 +41,7 @@ publication_types:
   - "2"
 
 # Publication
-publication: Working Paper
+publication: SSRN Working Paper (No. 5455894)
 
 ---
 
