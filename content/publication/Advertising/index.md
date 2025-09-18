@@ -7,11 +7,11 @@ summary: ''
 # Link this post with a project
 projects: []
 
-# Date published
-date: '2021-12-13T00:00:00Z'
+publication: ""
+publication_short: "Jeremy Greenwood, Yueyuan Ma, Mehmet Yorukoglu."
+date: 2021-01-01
+show_date: false
 
-# Date updated
-lastmod: '2022-06-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
