@@ -40,7 +40,7 @@ publication_types:
   - "2"
 
 # Publication
-publication: SSRN Working Paper (No. 4052990). Conditionally Accepted at Journal of Political Economy Macroeconomics
+publication: SSRN Working Paper (No. 4052990). Accepted at Journal of Political Economy Macroeconomics
 
 ---
 
