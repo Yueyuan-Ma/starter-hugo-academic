@@ -8,10 +8,10 @@ summary: ''
 projects: []
 
 # Date published
-date: '2024-11-10T00:00:00Z'
+date: '2025-11-01T00:00:00Z'
 
 # Date updated
-lastmod: '2024-12-10T00:00:00Z'
+lastmod: '2025-10-06T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -40,7 +40,7 @@ publication_types:
   - "2"
 
 # Publication
-publication: SSRN Working Paper (No. 4052990). Accepted at Journal of Political Economy Macroeconomics
+publication: SSRN Working Paper (No. 4052990). Forthcoming at Journal of Political Economy Macroeconomics
 
 ---
 
