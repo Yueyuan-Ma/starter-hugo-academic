@@ -8,7 +8,7 @@ summary: ''
 projects: []
 
 # Date published
-date: '2024-10-02T00:00:00Z'
+date: '2025-10-02T00:00:00Z'
 
 # Date updated
 lastmod: '2025-4-02T00:00:00Z'
