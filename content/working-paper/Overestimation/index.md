@@ -27,6 +27,9 @@ image:
 #  placement: 2
 #  preview_only: false
 
+links:
+  - name: CES WP
+    url: https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-11.pdf
 
 authors:
   - Emin Dinlersoz
