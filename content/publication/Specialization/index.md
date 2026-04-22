@@ -40,7 +40,7 @@ publication_types:
   - "2"
 
 # Publication
-publication: SSRN Working Paper (No. 4052990). Forthcoming at Journal of Political Economy Macroeconomics
+publication: SSRN Working Paper (No. 4052990). Journal of Political Economy Macroeconomics, Volume 4, Number 1, March 2026
 
 ---
 
