@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      -other-writings
+      - other-writings
     tag: ''
     category: ''
     publication_type: ''
