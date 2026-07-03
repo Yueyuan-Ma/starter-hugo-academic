@@ -13,6 +13,9 @@ main:
   - name: Working Papers
     url: '#working-paper'
     weight: 30
+  - name: Other Writings
+    url: '#other-writings'
+    weight: 35
   - name: Contact
     url: '#contact'
     weight: 40
