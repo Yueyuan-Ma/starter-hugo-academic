@@ -36,7 +36,14 @@ publication_types:
   - "2"
 
 # Publication
-publication: 
+publication: Accepted by NeurIPS 2026
+
+# List at the end of the Publications section under "Interdisciplinary Work"
+interdisciplinary: true
+
+# Keep the old Other Writings link working
+aliases:
+  - /other-writings/ai_agent/
 ---
 
 
